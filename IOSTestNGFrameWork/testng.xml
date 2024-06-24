@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Regression">
+	<listeners>
+		<listener class-name="AAA_ITestListener.listeneres" />
+		<listener class-name="Resources.extentReporterNG" />
+	</listeners>
+	<test name="Test">
+		<classes>
+			<class name="Ageas.AG001_Verify_Proxy_Popup" />
+		</classes>
+	</test>
+	<test name="Test1">
+		<classes>
+			<class name="Ageas.AG002_Verify_VPN_Popup" />
+		</classes>
+	</test>
+	<test name="Test2">
+		<classes>
+			<class name="Ageas.AG003_Verify_Screen_Mirroring_Popup" />
+		</classes>
+	</test>
+	<test name="Test3">
+		<classes>
+			<class name="Ageas.AG004_Verify_UnsecuredWifi_Popup" />
+		</classes>
+	</test>
+	<test name="Test4">
+		<classes>
+			<class name="Ageas.AG005_Verify_App_Installation_Source_Popup" />
+		</classes>
+	</test>
+	<test name="Test5">
+		<classes>
+			<class name="Ageas.AG006_Enabled_Device_Screen_Lock_Popup" />
+		</classes>
+	</test>
+</suite>

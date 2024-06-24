@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration status="WARN">
+	<Properties>
+		<Property name="Filename">./logs</Property>
+	</Properties>
+	<Appenders>
+		<RollingFile name="File" fileName="${Filename}/prints.log" filePattern="${Filename}/prints-%d{yyyy-MM-dd}.log">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+			<SizeBasedTriggeringPolicy size="5000kb" />
+		</RollingFile>
+		<Console name="EclipesConsole" target="SYSTEM_OUT">
+			<PatternLayout pattern="%d{HH:mm:ss.SSS} [%t] %-5level %logger{36} - %msg%n" />
+		</Console>
+	</Appenders>
+	<Loggers>
+		<Root level="info">
+			<AppenderRef ref="File" />
+			<!--<AppenderRef ref="EclipesConsole" /> -->
+		</Root>
+	</Loggers>
+</Configuration>

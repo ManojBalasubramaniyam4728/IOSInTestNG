@@ -1,0 +1,87 @@
+09:25:33.353 [main] INFO  Ageas.AG005_Verify_App_Installation_Source_Popup - ************ Opening The Ageas Application *****************
+09:25:36.061 [main] INFO  Resources.base - Successfully Opened The Application
+09:25:36.098 [main] INFO  Resources.base - Successfully converted String To Boolean And The Boolean Valve is true
+09:25:38.698 [main] INFO  Resources.base - The Located by By.chained({By.xpath: //XCUIElementTypeStaticText[@name='Welcome']}) is having the Welcome text
+09:25:58.900 [main] INFO  Resources.base - Located by By.chained({By.xpath: //XCUIElementTypeButton[@name='Skip']})or Located by By.chained({By.xpath: //XCUIElementTypeStaticText[contains(@name,'Identified')]}) Is Not There In The Application Screen
+09:25:58.901 [main] INFO  Resources.base - Successfully converyed Array List To String And The String Value Is []
+09:25:58.920 [main] INFO  Resources.base - Data are written into the Properties file
+09:26:19.547 [main] INFO  Ageas.AG005_Verify_App_Installation_Source_Popup - ************ Closeing The Application *****************
+09:26:20.647 [main] INFO  Resources.base - Successfully Closing The Application
+09:28:13.383 [main] INFO  Ageas.AG004_Verify_UnsecuredWifi_Popup - ************ Opening The Setting Application *****************
+09:28:17.366 [main] INFO  Resources.base - Successfully Opened The Application
+09:28:17.403 [main] INFO  Resources.base - Successfully converted String To Boolean And The Boolean Valve is true
+09:28:17.403 [main] INFO  Resources.base - Successfully converted String To Boolean And The Boolean Valve is false
+09:28:17.403 [main] INFO  Resources.base - Successfully converted String To Boolean And The Boolean Valve is true
+09:29:05.038 [main] INFO  Ageas.AG004_Verify_UnsecuredWifi_Popup - ************ Opening The Setting Application *****************
+09:29:08.970 [main] INFO  Resources.base - Successfully Opened The Application
+09:29:09.004 [main] INFO  Resources.base - Successfully converted String To Boolean And The Boolean Valve is true
+09:29:09.005 [main] INFO  Resources.base - Successfully converted String To Boolean And The Boolean Valve is false
+09:29:09.005 [main] INFO  Resources.base - Successfully converted String To Boolean And The Boolean Valve is true
+09:29:10.200 [main] INFO  Ageas.AG004_Verify_UnsecuredWifi_Popup - ************ Setting The Unsecured WiFi Network *****************
+09:29:12.159 [main] INFO  Resources.base - The Located by By.chained({By.xpath: //XCUIElementTypeStaticText[@label='Settings']}) is having the Settings text
+09:29:15.904 [main] INFO  Resources.base - Successfully Taped on  Located by By.chained({By.xpath: //XCUIElementTypeCell[@name='Wi-Fi']})
+09:29:16.352 [main] INFO  Resources.base - The Located by By.chained({By.xpath: (//XCUIElementTypeStaticText[@name='Wi‑Fi'])[1]}) is not having the WiâFi text
+09:29:36.775 [main] INFO  Resources.base - Located by By.chained({By.xpath: //XCUIElementTypeStaticText[@name='Unsecured Network']}) Is Not Displayed In The Screen
+09:38:06.410 [main] INFO  Ageas.AG004_Verify_UnsecuredWifi_Popup - ************ Opening The Setting Application *****************
+09:38:10.358 [main] INFO  Resources.base - Successfully Opened The Application
+09:38:10.393 [main] INFO  Resources.base - Successfully converted String To Boolean And The Boolean Valve is true
+09:38:10.393 [main] INFO  Resources.base - Successfully converted String To Boolean And The Boolean Valve is false
+09:38:10.393 [main] INFO  Resources.base - Successfully converted String To Boolean And The Boolean Valve is true
+09:38:11.633 [main] INFO  Ageas.AG004_Verify_UnsecuredWifi_Popup - ************ Setting The Unsecured WiFi Network *****************
+09:38:13.221 [main] INFO  Resources.base - The Located by By.chained({By.xpath: //XCUIElementTypeStaticText[@label='Settings']}) is having the Settings text
+09:38:16.941 [main] INFO  Resources.base - Successfully Taped on  Located by By.chained({By.xpath: //XCUIElementTypeCell[@name='Wi-Fi']})
+09:38:17.380 [main] INFO  Resources.base - The Located by By.chained({By.xpath: (//XCUIElementTypeStaticText[@name='Wi‑Fi'])[1]}) is not having the WiâFi text
+09:38:37.854 [main] INFO  Resources.base - Located by By.chained({By.xpath: //XCUIElementTypeStaticText[@name='Unsecured Network']}) Is Not Displayed In The Screen
+09:38:40.084 [main] INFO  Resources.base - Successfully Taped on  Located by By.chained({By.xpath: //XCUIElementTypeOther[@name='MY NETWORKS']/following-sibling::XCUIElementTypeCell[1]})
+09:38:40.085 [main] INFO  Ageas.AG004_Verify_UnsecuredWifi_Popup - ************ Successfully Oned The Unsceured Wifi *****************
+09:38:40.086 [main] INFO  Ageas.AG004_Verify_UnsecuredWifi_Popup - ************ Opening The Ageas Application *****************
+09:38:43.214 [main] INFO  Resources.base - Successfully Opened The Application
+09:38:44.579 [main] INFO  Resources.base - The Located by By.chained({By.xpath: //XCUIElementTypeStaticText[@name='Welcome']}) is having the Welcome text
+09:39:04.943 [main] INFO  Resources.base - Located by By.chained({By.xpath: //XCUIElementTypeButton[@name='Skip']})or Located by By.chained({By.xpath: //XCUIElementTypeStaticText[contains(@name,'Identified')]}) Is Not There In The Application Screen
+09:39:04.943 [main] INFO  Resources.base - Successfully converyed Array List To String And The String Value Is []
+09:39:04.974 [main] INFO  Resources.base - Data are written into the Properties file
+09:39:25.394 [main] INFO  Ageas.AG004_Verify_UnsecuredWifi_Popup - ************ Opening The Setting Application *****************
+09:39:28.576 [main] INFO  Resources.base - Successfully Opened The Application
+09:39:28.956 [main] INFO  Ageas.AG004_Verify_UnsecuredWifi_Popup - ************ Setting The Secured WiFi Network *****************
+09:39:30.206 [main] INFO  Resources.base - The Located by By.chained({By.xpath: //XCUIElementTypeStaticText[@label='Settings']}) is having the Settings text
+09:39:33.952 [main] INFO  Resources.base - Successfully Taped on  Located by By.chained({By.xpath: //XCUIElementTypeCell[@name='Wi-Fi']})
+09:39:34.364 [main] INFO  Resources.base - The Located by By.chained({By.xpath: (//XCUIElementTypeStaticText[@name='Wi‑Fi'])[1]}) is not having the WiâFi text
+09:39:34.824 [main] INFO  Resources.base - Located by By.chained({By.xpath: //XCUIElementTypeStaticText[@name='Unsecured Network']}) Is Displayed In The Screen
+09:39:36.619 [main] INFO  Resources.base - Successfully Taped on  Located by By.chained({By.xpath: //XCUIElementTypeOther[@name='MY NETWORKS']/following-sibling::XCUIElementTypeCell[1]})
+09:39:36.620 [main] INFO  Ageas.AG004_Verify_UnsecuredWifi_Popup - ************ Successfully Oned The Sceured Wifi *****************
+09:39:36.621 [main] INFO  Ageas.AG004_Verify_UnsecuredWifi_Popup - ************ Opening The Ageas Application *****************
+09:39:39.607 [main] INFO  Resources.base - Successfully Opened The Application
+09:39:40.562 [main] INFO  Resources.base - The Located by By.chained({By.xpath: //XCUIElementTypeStaticText[@name='Welcome']}) is having the Welcome text
+09:40:00.946 [main] INFO  Resources.base - Located by By.chained({By.xpath: //XCUIElementTypeButton[@name='Skip']})or Located by By.chained({By.xpath: //XCUIElementTypeStaticText[contains(@name,'Identified')]}) Is Not There In The Application Screen
+09:40:00.947 [main] INFO  Resources.base - Successfully converyed Array List To String And The String Value Is []
+09:40:00.947 [main] INFO  Ageas.AG004_Verify_UnsecuredWifi_Popup - []
+09:40:00.957 [main] INFO  Ageas.AG004_Verify_UnsecuredWifi_Popup - Unsceured wifiy is Not Present in the Ageas false
+09:40:01.280 [main] INFO  Resources.base - Successfull Captcher the Screenshoot
+09:40:01.306 [main] INFO  Ageas.AG004_Verify_UnsecuredWifi_Popup - ************ Closeing The Application *****************
+09:40:02.381 [main] INFO  Resources.base - Successfully Closing The Application
+09:40:02.431 [main] INFO  Ageas.AG005_Verify_App_Installation_Source_Popup - ************ Opening The Ageas Application *****************
+09:40:04.386 [main] INFO  Resources.base - Successfully Opened The Application
+09:40:04.391 [main] INFO  Resources.base - Successfully converted String To Boolean And The Boolean Valve is true
+09:40:05.238 [main] INFO  Resources.base - The Located by By.chained({By.xpath: //XCUIElementTypeStaticText[@name='Welcome']}) is having the Welcome text
+09:40:25.574 [main] INFO  Resources.base - Located by By.chained({By.xpath: //XCUIElementTypeButton[@name='Skip']})or Located by By.chained({By.xpath: //XCUIElementTypeStaticText[contains(@name,'Identified')]}) Is Not There In The Application Screen
+09:40:25.574 [main] INFO  Resources.base - Successfully converyed Array List To String And The String Value Is []
+09:40:25.577 [main] INFO  Resources.base - Data are written into the Properties file
+09:40:46.224 [main] INFO  Resources.base - Successfull Captcher the Screenshoot
+09:40:46.226 [main] INFO  Ageas.AG005_Verify_App_Installation_Source_Popup - ************ Closeing The Application *****************
+09:40:47.278 [main] INFO  Resources.base - Successfully Closing The Application
+09:40:47.306 [main] INFO  Ageas.AG006_Enabled_Device_Screen_Lock_Popup - ************ Opening The Setting Application *****************
+09:40:49.507 [main] INFO  Resources.base - Successfully Opened The Application
+09:40:49.510 [main] INFO  Resources.base - Successfully converted String To Boolean And The Boolean Valve is true
+09:40:49.510 [main] INFO  Resources.base - Successfully converted String To Boolean And The Boolean Valve is true
+09:40:49.662 [main] INFO  Ageas.AG006_Enabled_Device_Screen_Lock_Popup - ************ Setting The Password Free Device *****************
+09:40:51.392 [main] INFO  Resources.base - The Located by By.chained({By.xpath: //XCUIElementTypeStaticText[@label='Settings']}) is having the Settings text
+09:41:14.882 [main] INFO  Resources.base - Located by By.chained({By.xpath: //XCUIElementTypeStaticText[@name='Enter Passcode']}) Is Not Displayed In The Screen
+09:41:14.882 [main] INFO  Ageas.AG006_Enabled_Device_Screen_Lock_Popup - ************ Opening The Ageas Application *****************
+09:41:17.891 [main] INFO  Resources.base - Successfully Opened The Application
+09:41:18.747 [main] INFO  Resources.base - The Located by By.chained({By.xpath: //XCUIElementTypeStaticText[@name='Welcome']}) is having the Welcome text
+09:41:39.124 [main] INFO  Resources.base - Located by By.chained({By.xpath: //XCUIElementTypeButton[@name='Skip']})or Located by By.chained({By.xpath: //XCUIElementTypeStaticText[contains(@name,'Identified')]}) Is Not There In The Application Screen
+09:41:39.124 [main] INFO  Resources.base - Successfully converyed Array List To String And The String Value Is []
+09:41:39.127 [main] INFO  Resources.base - Data are written into the Properties file
+09:41:59.786 [main] INFO  Resources.base - Successfull Captcher the Screenshoot
+09:41:59.787 [main] INFO  Ageas.AG006_Enabled_Device_Screen_Lock_Popup - ************ Closeing The Application *****************
+09:42:00.868 [main] INFO  Resources.base - Successfully Closing The Application
